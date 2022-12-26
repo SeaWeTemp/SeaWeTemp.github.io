@@ -1,0 +1,30 @@
+.navbar-brand span{
+    font-family: 'Signika', sans-serif;
+    color: #ffff;
+    font-size: 25px;
+}
+
+h3{
+    color: rgb(5, 4, 31);
+}
+
+h2{
+    font-size: 35px;
+    font-family: 'Signika', sans-serif;
+}
+h4{
+    font-family: 'Signika', sans-serif; 
+}
+
+.small-line{
+    border:0.5px solid #7910f1;
+    display: block;
+    margin: auto;
+    margin-bottom: 25px;
+    width: 125px;
+  }
+.breadcrumb li{
+      font-family: 'Signika', sans-serif rgb(105, 97, 97);
+      font-size: 15px;
+  }
+
